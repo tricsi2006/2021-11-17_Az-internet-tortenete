@@ -1,12 +1,14 @@
 body {
 	color: black;
+	background-color: #e0e0e0;
 }
 
 p {
-
+  text-align: justify;
 }
 
 a, a:link, a:visited, a:active {
+	color: #666584;
 
 }
 
