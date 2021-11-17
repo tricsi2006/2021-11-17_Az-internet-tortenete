@@ -1,0 +1,72 @@
+body {
+	color: black;
+}
+
+p {
+
+}
+
+a, a:link, a:visited, a:active {
+
+}
+
+/* Középső hasáb */
+#container {
+
+}
+
+/* Fejléc */
+#header img {
+	display: block;
+}
+
+
+/* Navigációs sáv */
+#nav {
+
+}
+
+#nav ul {
+    overflow: hidden;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+#nav li {
+    float: left;
+}
+
+#nav a {
+	display: block;
+	text-decoration: none;
+	padding: 0.5em 0;
+	font-weight: bold;
+}
+
+#nav a:hover {
+
+}
+
+/* Tartalom */
+#content {
+
+}
+
+/*Lábléc  */
+#footer {
+
+}
+
+/* További stílusok */
+.center {
+	text-align: center;
+}
+
+.jobbra {
+	float: right;
+}
+
+.active {
+
+}
